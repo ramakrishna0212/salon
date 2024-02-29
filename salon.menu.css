@@ -1,0 +1,38 @@
+* {
+    font-family:  sans-serif;
+    text-decoration: none;
+    color: white;
+}
+body{
+    background-color: #222222;
+}
+.baroptions{
+    margin-left: 36%;
+    margin-top: 15%;
+    vertical-align: middle;
+    line-height: 44px;
+}
+.baroptions a{
+    width: 36%;
+    display: block;
+    padding: 27px 25px;
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    font-size: larger;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.352);
+    font-weight: 600;
+}
+
+.baroption{
+    margin-top: 5%;
+    margin-left: 40%;
+    font-size: larger;
+    letter-spacing: 16px;
+}
+.home{
+    padding-top: 107PX;
+    margin-left: 100PX;
+    font-size: medium;
+    font-weight: bold;
+}

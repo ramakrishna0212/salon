@@ -1,0 +1,75 @@
+* {
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: #1e1e1e;
+}
+.menu{
+    padding-left: 91%;
+    padding-top: 7%;
+    font-weight: bold;
+    font-size: small;
+}
+.title{
+    margin: -78px;
+    padding: 16px;
+    background: rgba(0, 0, 0, 0.299);
+    padding-top: 6%;
+    padding-left: 50%;
+    font-size: x-large;
+    font-weight: bold;
+} 
+.homepage{
+    font-size: large;
+    padding-top: 3.5%;
+    padding-left: 9%;
+}
+.image{
+    width: 0%;
+    float: left;
+    padding-top: 0%;
+    padding-left: 15.5%;
+}
+h1{
+    font-size: xxx-large;
+}
+.iteam{
+    width: 46%;
+    float: LEFT;
+    font-size: large;
+    padding-top: 3.5%;
+    MARGIN-left: 35%;
+}
+.tech{
+    font-weight: bold;
+    font-size: xx-large;
+    padding-top: 53%;
+    padding-left: 37%;
+}
+.image2{
+    padding-left: 16%;
+    padding-top: 9%;
+    padding-bottom: 9%;
+}
+.container {
+    width: 25%;
+    padding-top: 4%;
+    padding-left: 37%;
+    padding-bottom: 2%;
+}
+.advan{
+    font-weight: bold;
+    font-size: xx-large;
+    padding-left: 37%;
+}
+.advan_list{
+    width: 31%;
+    padding-top: 4%;
+    padding-left: 37%;
+    
+}
+.col-sm-3{
+    padding-bottom: 9%;
+}
